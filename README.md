@@ -1,6 +1,6 @@
 # Stump
 
-Official rulebook for the Stump hammerschlagen variant
+Official rulebook for Stump
 
 ![Cover Art](/assets/stump_logo_color.png)
 
