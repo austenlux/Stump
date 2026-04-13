@@ -94,11 +94,11 @@ If the Hammer Test is performed during another player's turn and that player giv
 
 ## VI - Bent Nails
 
-If a player bends another player's nail during a strike, that player becomes locked onto the bent nail. They must continue striking that nail on subsequent turns until it is either straightened or fully driven into the stump. While locked, the player may not strike any other player's nail.
+If a player bends another player's nail during a strike, that player becomes "stuck" on the bent nail. They must continue striking that nail on subsequent turns until it is either straightened or fully driven into the stump. While stuck, the player may not strike any other player's nail.
 
 ## VII - Penalties
 
-If a player strikes a different player's nail while locked onto a bent nail, that player must drink 1.
+If a player strikes a different player's nail while stuck on a bent nail, that player must take 1 drink.
 
 ## VIII - Sparks
 
